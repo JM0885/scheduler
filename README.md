@@ -22,7 +22,7 @@ npm test
 npm run storybook
 ```
 
-##Screenshots
+## Screenshots
 
 !["New Appointment"] (https://github.com/JM0885/scheduler/blob/master/DOCS/NewAppt.png)
 !["Create New Appointment"] (https://github.com/JM0885/scheduler/blob/master/DOCS/CreateNewAppt.png)
